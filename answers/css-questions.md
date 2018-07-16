@@ -1,8 +1,8 @@
 # CSS Questions
 
 #### What is the difference between classes and ID's in CSS?
-
-*Not answered yet*
+ID = Style will be applied to only one element with the given ID.
+class = style will be applied to all elements with this class.
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
